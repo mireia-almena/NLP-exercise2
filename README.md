@@ -14,6 +14,6 @@ Libraries:
 - scipy: 1.17.1
 
 #Data sources: 
-NRC-VAD Lexicon: v1 updated 2018 https://saifmohammad.com/WebPages/nrc-vad.html
-Catalan Floret embeddings: https://zenodo.org/records/7330331
-Catalan FastText embeddings: https://zenodo.org/records/4522041
+- NRC-VAD Lexicon: v1 updated 2018 https://saifmohammad.com/WebPages/nrc-vad.html
+- Catalan Floret embeddings: https://zenodo.org/records/7330331
+- Catalan FastText embeddings: https://zenodo.org/records/4522041
